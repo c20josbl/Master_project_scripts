@@ -1,2 +1,2 @@
 # Master_project_scripts
-R scripts associated with Master's project
+R scripts, 3D UMAP projection and DEGs associated with Master's project
